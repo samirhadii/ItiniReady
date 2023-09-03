@@ -1,7 +1,9 @@
 # Itini-Ready
 
-Project that generates a personal itinerary  
-backend built with flask
+Project that generates a personal itinerary
+
+backend built with Python flask server
+Using Pytorch and HuggingFace Transformers
 
 to get started with this project do the following:  
 install a virtual environment
