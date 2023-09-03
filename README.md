@@ -1,11 +1,3 @@
-make sure to run:
-`source reccvenv/bin/activate`
-to activate the virtualenv
-
-run
-`deactivate`
-to deactivate the virtualenv
-
 # Itini-Ready
 
 Project that generates a personal itinerary  
