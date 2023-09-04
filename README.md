@@ -40,6 +40,8 @@ run the following code to access the requests library in python:
 run the following code to access the smarty streets api in python:  
 `pip install smartystreets_python_sdk`
 
+You will need to get API keys for google places API and smartystreets API
+
 You will also need to install pytorch and use a huggingface transformer for this project
 to get started with that, follow the directions at:
 https://huggingface.co/docs/transformers/installation
